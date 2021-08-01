@@ -12,6 +12,7 @@ disable=
     arguments-differ,
     fixme,
     missing-class-docstring,
+    missing-final-newline,
     missing-function-docstring,
     missing-module-docstring,
     no-else-return,
